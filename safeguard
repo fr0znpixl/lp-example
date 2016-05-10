@@ -1,0 +1,615 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Marketing Products, Consultants, Kits &amp; Bundles | GoSafeguard.com</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="See how Safeguard marketing consultants can help your business succeed through customized marketing bundles."/>
+<meta name="keywords" content="marketing products, marketing consultants, marketing kits, marketing bundles"/>
+
+<link rel="stylesheet" type="text/css" href="css/SGglobal.css"/>
+<link rel="stylesheet" type="text/css" href="css/font-awesome.css"/>
+
+<!--   Insert new Scripts and CSS Start -->
+<link rel="stylesheet" type="text/css" href="css/pure-min.css">
+<link rel="stylesheet" type="text/css" href="css/magnific-popup.css"/>
+<link rel="stylesheet" type="text/css" href="css/animate.css"/>
+<link rel="stylesheet" type="text/css" href="css/microsite-theme.css" />
+<!--[if lte IE 8]>
+    <link rel="stylesheet" href="css/grids-responsive-old-ie-min.css">
+    <link rel="stylesheet" href="css/ie.css">
+<![endif]-->
+<!--   Insert new Scripts and CSS end -->
+
+<script type="text/javascript" src="js/jquery.min.js"></script>
+<script type="text/javascript" src="js/jquery-ui.min.js"></script>
+<script type="text/javascript" src="js/jquery.magnific-popup.min.js"></script>
+<script type="text/javascript" src="js/jquery.validate.min.js"></script>
+<script type="text/javascript" src="js/additional-methods.js"></script>
+<script type="text/javascript" src="js/microsite.js"></script>
+
+</head>
+<body>
+ <!-- -----   main-Header-Navgation. START  ---- -->
+<div class="topHeader">
+  <div class="TopNav">
+    <div id="grayBar">
+      <div class="loginBoxTop">
+        <div class="OrderTop"><a href="#">Order Requests (0)</a></div>
+        <div class="RegisterTop"><a href="#">Register</a></div>
+        <div class="loginTop"><a href="#">Login</a></div>
+      </div>
+      <div class="searchTop">
+        <form class="rounded" method="get" action="#">
+          <input class="keywordBox" name="zoom_query" type="text" value="Keyword">
+          <input class="MagnifyIcon" type="submit" value="">
+        </form>
+      </div>
+      <div class="phoneTop">Find Your Consultant Today! <strong>1-855-778-3124</strong></div>
+    </div>
+    <div class="navBar">
+        <div class="SgLogo">
+            <a href="/index.asp">
+                <img src="images/safeguard-logo-home.jpg" width="284" height="60" alt="" />
+            </a>
+        </div>
+      <ul id="menu" >
+        <li id class="Nav1all">
+          <div id="Nav1">
+            <div class="titleNav" style="width:255px;">The Safeguard Advantage</div>
+            <div class="subtitleNav" style="width:200px;">Locally Owned, Personal Service</div>
+          </div>
+          <!--Drop Down start Nav 1-->
+          <div id="flyoutNav1">
+            <div id="flyoutNavGray">
+              <div class="marginNav"> <span class="navTitleList">Ideas, Advice &amp; Solutions</span>
+                <ul>
+                  <li><a href="/safeguard-advantage/index.asp">Learn the Safeguard Advantage</a><br />
+                    <br />
+                  </li>
+                  <li></li>
+                </ul>
+                <span class="navTitleList">Find Your Consultant</span>
+                <ul>
+
+                  <li style="font-size:16px;"><strong>1-855-778-3124</strong></li>
+                  <li><a href="#">Email Us</a></li>
+
+                  <li><a href="/contact-us/index.asp">Contact Safeguard</a></li>
+                </ul>
+              </div>
+            </div>
+            <div id="flyoutNavWhite">
+              <div class="marginNav"> <span class="navTitleList2">POPULAR RESOURCES</span>
+                <ul>
+                 <li><a href="/learn-and-grow/marketing-videos/marketing-with-full-color-printing.asp#fullcolor"> Marketing With Full Color Video</a></li>
+                  <li><a href="/checks-forms/safeguardsecure/evaluation/index.asp">Fraud Risk Evaluation Tool</a></li>
+                  <li><a href="/print-services/index.asp">Design &amp; Print Services</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <!--Drop Down end Nav 1-->
+        </li>
+        <li>
+          <div id="Nav2">
+            <div class="titleNav" style="width:140px;">Learn &amp; Grow</div>
+            <div class="subtitleNav" style="width:120px;">Ideas, How To's,  Tips</div>
+          </div>
+
+          <!--Drop Down start Nav 2-->
+          <div id="flyoutNav2">
+            <div id="flyoutNavGray">
+              <div class="marginNav">
+                <ul>
+                  <li><a href="/knowledgecenter/index.asp">Learn &amp; Grow Overview</a></li>
+                  <li><a href="/knowledgecenter/marketing/index.asp">Marketing Ideas</a></li>
+                  <li><a href="/learn-and-grow/marketing-videos/index.asp">Videos</a></li>
+                  <li><a href="/knowledgecenter/whitepapers/index.asp">White Papers</a><br />
+<br />
+ </li>
+                  <li><a href="/checks-forms/safeguardsecure/index.asp">Safeguard Secure Resource Center</a></li>
+                  <li><a href="/resources/index.asp">Product Style Options</a></li>
+                  <li><a href="/knowledgecenter/efficiency/index.asp">Business Efficiency Ideas</a><br />
+                    <br />
+                  </li>
+
+                  <li><a href="/newsletter/archive.asp">Newsletter Archive</a></li>
+
+
+                  <li style="margin-bottom:15px;"><a href="/cc/archive.asp">Consultant&rsquo;s Corner</a></li>
+                </ul>
+              </div>
+            </div>
+            <div id="flyoutNavWhite">
+              <div class="marginNav"> <span class="navTitleList2">POPULAR RESOURCES</span>
+                <ul>
+                   <li><a href="/learn-and-grow/marketing-videos/milestone-marketing.asp">Milestone Marketing Video</a></li>
+                  <li><a href="/miscfiles/pdf/milestonemarketing/whitepaper.pdf">Milestone Marketing Guidebook </a></li>
+                  <li><a href="/checks-forms/safeguardsecure/evaluation/index.asp">Fraud Risk Evaluation Tool</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <!--Drop Down end Nav 2-->
+
+        </li>
+        <li>
+          <div id="Nav3">
+            <div class="titleNav" style="width:200px;">Products &amp; Services</div>
+            <div class="subtitleNav" style="width:180px;">Manage &amp; Market Your Business</div>
+          </div>
+
+          <!--Drop Down start Nav 3-->
+          <div id="flyoutNav3">
+            <div id="flyoutNavGray">
+              <div class="marginNav"> <span style="font-size:13px;"><a  href="/products-services/index.asp">Safeguard Solutions & Product Overview</a></span><br />
+                <br />
+                <span class="navTitleList">Manage Your Business</span>
+                <ul>
+                  <li><a href="/office-supplies/index.asp">Office Supplies</a></li>
+                  <li><a href="/printed-products/index.asp">Printed Products</a></li>
+                  <li><a href="/business-checks/index.asp">Business Checks</a></li>
+                  <li style="margin-bottom:15px;"><a href="/business-forms/index.asp">Business Forms</a></li>
+                </ul>
+                <span class="navTitleList">Market Your Business</span>
+                <ul>
+                  <li><a href="/promotional-products-apparel/index.asp">Promotional Products &amp; Apparel</a></li>
+                  <li><a href="/print-services/index.asp">Design &amp; Print Services</a></li>
+                  <li style="margin-bottom:15px;"><a href="/online-marketing-web-services/index.asp">Online Marketing &amp; Web Services</a></li>
+                </ul>
+                <span class="navTitleList"><a href="/shop/index.asp">Shop</a></span>
+              </div>
+            </div>
+            <div id="flyoutNavWhite">
+              <div class="marginNav"> <span class="navTitleList2">POPULAR RESOURCES</span>
+                <ul>
+                  <li><a href="/checks-forms/safeguardsecure/index.asp">Safeguard Secure Resource Center</a></li>
+                  <li><a href="/checks-forms/check-color-guide.asp">Check Color Selector Guides</a></li>
+                  <li><a href="/ecatalog/index.asp">Product Catalog</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <!--Drop Down end Nav 3-->
+
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+ <!-- -----   main-Header-Navgation. END   ---- -->
+    <div id="mainAreaHome">
+        <div class="mainContentHome">
+            <div class="bigGrayLine" style="margin-left:30px;"></div>
+            <div class="Margin30">
+                <div class="breadCrumb">
+                    <a href="http://www.gosafeguard.com/" target="self">Home</a> &raquo;  <a href="https://www.gosafeguard.com/knowledgecenter/index.asp">Learn &amp; Grow</a> &raquo; Advantage: YOU</a>
+                </div>
+                <div class="Maintailtle">
+                    <h1>Advantage: YOU</h1>
+                </div>
+                <div class="bigGrayLine"></div>
+                <div class="Content">
+                <!--content Template start -->
+                    <div class="absolute-wrapper hero-section hero-hub">
+                        <div class="oneThousandWide">
+                            <div class="Margin30 pure-g">
+                                <div class="pure-u-12-24 block-message-wrapper">
+                                    <h2>Business success is rarely a slam dunk. But it's far easier with the Safeguard Advantage.</h2>
+                                    <ul class="hero-navigation">
+                                        <li class="active">Advantage: You HOME</li>
+                                        <li class="pipe">&nbsp;|&nbsp;</li>
+                                        <li><a href="#stories" target="_self">Customer Stories</a></li>
+                                        <li class="pipe">&nbsp;|&nbsp;</li>
+                                        <li><a href="bundles.html" target="_self">Choose Your Marketing Kit</a></li>
+                                    </ul>
+                                    <div class="white-box"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="spacer-hack-340"></div>
+                    <!-- END HERO-->
+                    <!-- ASSESSMENT -->
+                    <div class="absolute-wrapper assessment-section">
+                        <div class="oneThousandWide">
+                            <div class="Margin30 pure-g">
+                                <div class="pure-u-5-5">
+                                    <h3 class="h3">What is the Safeguard Advantage?</h3>	
+                                </div>
+                                <!-- TAB CONTAINER -->
+                                <div class="pure-u-5-5 tab-container">
+                                    <div class="pure-g">
+                                        <!--- MENU LEFT -->
+                                        <div class="pure-u-8-24">
+                                            <div class="menu-custom-theme">
+                                                <ul class="tabs">
+												  <li class="current" data-tab="tab-1">
+                                                        <h4 class="tab-nav-headline">More Than Just Checks</h4>
+                                                        <a href="#slide01" target="_self">Choose from a huge variety of products and services</a>
+                                                    </li>
+                                                  <li data-tab="tab-2">
+                                                        <h4 class="tab-nav-headline">At Your Service</h4>
+                                                        <a href="#slide02" target="_self">A local marketing consultant to join your marketing team</a>
+                                                  </li>
+                                                
+                                                  <li data-tab="tab-3">
+                                                        <h4 class="tab-nav-headline">Professional Designers</h4>
+                                                        <a href="#slide03" target="_self">Utilize our extended team to create customized materials</a>	
+                                                  </li>
+                                                  <li data-tab="tab-4">
+                                                        <h4 class="tab-nav-headline">Your Single Source</h4>
+                                                        <a href="#slide04" target="_self">Get everything you need to market and manage your business</a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <!-- END MENU LEFT -->
+                                        <!-- SLIDES RIGHT -->
+                                        
+                                        <div class="pure-u-16-24">
+                                            <ul class="tab-group">
+												<li id="tab-1" class="tab-content current">
+                                                    <p class="strong-paragraph">Your consultant will help you with everything from full-color printing to online marketing &ndash; all with the Safeguard buying power that works for your bottom line.</p>
+                                                    <div class="section-img">
+                                                        <img src="images/more-than-just-checks-tab.jpg" class="pure-img" alt="more than just checks">
+                                                    </div>
+                                                <span style="float: right; display:block;">
+                                                <a href="bundles.html" target="_blank">Explore Marketing Kits</a>
+                                                </span>
+                                                <span style="clear: both; display:block;">
+                                                    <a href="https://www.gosafeguard.com/products-services" target="_blank">Learn more about Safeguard products and services</a></span>
+                                                </li>
+                                                <li id="tab-2" class="tab-content">
+                                                    <p class="strong-paragraph">A teammate to help you meet marketing challenges and recommend the right mix of marketing products &mdash; real solutions to solve your business challenges.</p>
+                                                    <div class="pure-g graphic">
+                                                        <div class="pure-u-1-2">
+                                                            <div class="pie-chart">
+                                                                <div class="graph">
+                                                                    <img src="images/anc-pie-us-thumb.png" class="pure-img" alt="customer referral chart"/>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="pure-u-1-2">
+                                                        
+                                                            <div class="percentage count">94 <span class="superscript">%</span></div>
+                                                            <div class="stat">of customers say <br />they'd refer others*</div>
+                                                        
+                                                        </div>
+                                                    </div>
+                                                    <div class="pure-u-1">
+                                                        <p class="disclaimer">*Safeguard Customer Satisfaction &amp; Loyalty Survey MindSearch Marketing Research, November 2013.</p>
+
+                                                    </div>
+                                                    <a href="https://www.gosafeguard.com/safeguard-advantage" target="_blank">Learn more about Safeguard</a>
+                                                </li>
+                                                
+                                                <li id="tab-3" class="tab-content">
+                                                    <p class="strong-paragraph">Bring your own artwork or work with one of our professional designers and industry experts to create and print one-of-a-kind materials of the highest quality.</p>
+                                                    <div class="section-img">
+                                                        <img src="images/professional-designers-tab.jpg" class="pure-img" alt="professional designers">
+                                                    </div>
+                                                    <a href="https://www.gosafeguard.com/print-services/index.asp" target="_blank">Learn more about Safeguard design and print services</a>
+                                                </li>
+                                                <li id="tab-4" class="tab-content">
+                                                    <p class="strong-paragraph">Get the right mix of marketing products and services perfect for your unique situation &mdash; all from one source. Your consultant will work with you to put it all together.</p>
+                                                    <h4>Sample Products &amp; Services in Marketing Kit:</h4>
+                                                    <ul class="pure-g products">
+                                                        <li class="pure-u-1-3 ">
+                                                            <ul class="product">
+                                                                <li class="product-img">
+                                                                    <img src="images/yss-everday-direct-mail-us-thumb.jpg" class="pure-img" alt="everyday direct mail">
+                                                                </li>
+                                                                <li class="product-name">
+                                                                    Every Door Direct Mail<span class="superscript">&reg;</span>
+                                                                </li>
+                                                                <li class="product-qty">
+                                                                    <strong>Qty:&nbsp;</strong> 1,000*
+                                                                </li>
+                                                                <li class="product-price hidden">
+                                                                    
+                                                                </li>
+                                                            </ul>
+                                                        </li>
+                                                        <li class="pure-u-1-3 ">
+                                                            <ul class="product">
+                                                                <li class="product-img">
+                                                                    <img src="images/yss-vinyl-banner-us-thumb.jpg" class="pure-img" alt="vinyl banner">
+                                                                </li>
+                                                                <li class="product-name">
+                                                                    Vinyl Banner
+                                                                </li>
+                                                                <li class="product-qty">
+                                                                    <strong>Qty: &nbsp;</strong>1*
+                                                                </li>
+                                                                <li class="product-price hidden">
+                                                                
+                                                                </li>
+                                                            </ul>
+                                                        </li>
+                                                        <li class="pure-u-1-3 ">
+                                                            <ul class="product">
+                                                                <li class="product-img">
+                                                                    <img src="images/yss-referral-cards-us-thumb.jpg" class="pure-img" alt="referral cards">
+                                                                </li>
+                                                                <li class="product-name">
+                                                                    Referral Cards
+                                                                </li>
+                                                                <li class="product-qty">
+                                                                    <strong>Qty:&nbsp;</strong>1,000*
+                                                                </li>
+                                                                <li class="product-price hidden">
+                                                                
+                                                                </li>
+                                                            </ul>
+                                                        </li>
+                                                    </ul>
+                                                    <h5>New Customer Kit Cost: <span class="price red-text">$329.00</span></h5>
+                                                    <p class="disclaimer">*Other quantities and configurations are available. Ask your consultant. </p>
+                                                    <a href="bundles.html" target="_self">Explore the marketing kit that helps you best achieve your specific goals</a>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                        <!-- END SLIDES RIGHT -->
+                                    </div>
+                                </div>
+                                <!-- END TAB CONTAINER -->
+                            </div>
+                        </div>			
+                    </div>
+                    <div class="spacer-hack-750"></div>
+
+                    <!-- END ASSESSMENT -->
+                    <!-- STORY CAROUSEL -->
+                    <div class="absolute-wrapper story-carousel-section blue-arrow" id="stories">
+                        <div class="oneThousandWide">
+                            <div class="Margin30 ">
+                                <h3>See how your peers use the Safeguard Advantage and<span style="display:block;">specially priced custom Marketing Kits to achieve their goals.</span></h3>
+                                <ul class="pure-g stories">
+                                    <li class="pure-u-1-3 ">
+                                        <div class="story">
+                                            <a href="truvant-story.html" target="_self">
+                                                <div><img src="images/truvant-logo-circle-compressed.png" class="pure-img story-img overlay" alt="truvant café attracts customers"></div>
+                                                <img src="images/truvant-circle-compressed.png" class="pure-img story-img" alt="truvant café attracts customers">
+                                            </a>
+                                            <h4><a href="truvant-story.html" target="_self">Truvant Cafe</a></h4>
+                                            <p>Truvant Café Corporation attracts <span style="display:block;">high-value customers for its 300 locations</span></p>
+                                            <a href="truvant-story.html" class="story-link" target="_self">Read their story</a>
+                                        </div>
+                                        
+                                    </li>
+                                    <li class="pure-u-1-3 ">
+                                        <div class="story">
+                                            <a href="winchel-story.html" target="_self">
+                                                <div><img src="images/winchel-logo-circle-compressed.png" class="pure-img story-img overlay" alt="winchel heating builds customer loyalty"></div>
+                                                <img src="images/winchel-circle-compressed.png" class="pure-img story-img" alt="winchel heating builds customer loyalty">
+                                            </a>
+                                            <h4><a href="winchel-story.html" target="_self">Winchel Heating</a></h4>
+                                            <p>Winchel, Inc. builds customer loyalty and turns their slow season into fast profits</p>
+                                            <a href="winchel-story.html" class="story-link" target="_self">Read their story</a>
+                                        </div>
+                                        
+                                    </li>
+                                    <li class="pure-u-1-3 ">
+                                        <div class="story">
+                                            <a href="graton-story.html" target="_self">
+                                                <div><img src="images/graton-logo-circle-compressed.png" class="pure-img story-img overlay" alt="graton technologies markets events"></div>
+                                                <img src="images/graton-circle-compressed.png" class="pure-img story-img" alt="graton technologies markets events">
+                                            </a>
+                                            <h4><a href="graton-story.html" target="_self">Graton Technologies</a></h4>
+                                            <p>Graton Technologies increases exposure to new products and licensing opportunities at trade events</p>
+                                            <p class="story-link">
+                                                <a href="graton-story.html" target="_self">Read their story</a>
+                                            </p>
+                                        </div>
+                                        
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="spacer-hack-700"></div>
+                    <!-- END STORY CAROUSEL -->
+                    <!-- CTA -->
+                    <div class="absolute-wrapper cta-section ">
+                        <div class="red-bg ">
+                            <div class="oneThousandWide">
+                                <div class="Margin30 pure-g">
+                                    <div class="pure-u-6-24"></div>
+                                    <div class="pure-u-18-24">
+                                        <h3>Experience the Safeguard Advantage yourself. Schedule your free planning session.</h3>
+                                    
+                                        <a href="#" class="button bluegradient allcap bigOlFatButton" target="_blank" style="">Connect with my consultant&nbsp;&nbsp;<i class="fa fa-arrow-right"></i> </a>
+                                        <a href="#" class="button bluegradient allcap bigOlFatButton" target="_blank" style="">Email my consultant&nbsp;&nbsp;<i class="fa fa-arrow-right"></i> </a>
+                                        <a href="#" class="button graygradient allcap bigOlFatButton" target="_blank">My Account&nbsp;&nbsp;<i class="fa fa-arrow-right"></i> </a>
+                                        <p>Let's talk now. (800) 616-9492</p>
+                                    </div>	
+                                </div>	
+                                <div class="basketball-img"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="spacer-hack-300"></div>	
+                    <!-- END CTA -->
+                    <!-- RESOURCES -->
+                    <div class="absolute-wrapper resources-section">
+                        <h3><span class="oneThousandWide">Marketing Resources from the Experts.</span></h3>
+                        <div class="oneThousandWide">
+                            <div class="Margin30">
+                                <ul class="resource-list">
+                                    <li class="pure-g resource">
+                                        <div class="pure-u-9-24">
+                                            <a href="https://gosafeguard.com/knowledgecenter/marketing/index.asp" class="resource-img" target="_blank">
+                                                <div class="msg-overlay">
+                                                    <h4>Marketing Ideas</h4>
+                                                </div>
+                                                <img src="images/marketing-ideas.jpg" width="332" height="166" class="pure-img" alt="marketing resources and ideas" />
+                                            </a>
+                                        </div>
+                                        <div class="pure-u-15-24 resource-copy">
+                                                <h4><a href="https://gosafeguard.com/knowledgecenter/marketing" target="_blank">Marketing Ideas</a></h4>
+                                                <p>Articles and resources to market your business.</p>
+                                                <ul>
+                                                    <li>
+                                                        <a href="https://gosafeguard.com/miscfiles/pdf/milestonemarketing/whitepaper.pdf" target="_blank">Milestone Marketing</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="https://gosafeguard.com/knowledgecenter/marketing/brand-impressions.asp" target="_blank">Brand Impressions</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="https://gosafeguard.com/knowledgecenter/marketing/index.asp" target="_blanks">Browse All Marketing Ideas</a>
+                                                    </li>
+                                                </ul>
+                                        </div>
+                                    </li>
+                                    <li class="pure-g resource">
+                                        <div class="pure-u-9-24">
+                                            <a href="https://gosafeguard.com/learn-and-grow/marketing-videos/" class="resource-img" target="_blank">
+                                                <div class="msg-overlay">
+                                                    <h4>Marketing Minute Videos</h4>
+                                                    
+                                                </div>
+                                                <img src="images/marketing-minute-videos.jpg"  width="332" height="166" class="pure-img" alt="marketing resource videos" />
+                                            </a>
+                                        </div>
+                                        <div class="pure-u-15-24 resource-copy">
+                                                <h4><a href="https://gosafeguard.com/learn-and-grow/marketing-videos/" target="_blank">Marketing Minute Videos</a></h4>
+                                                <p>Watch and learn series of four important topics.</p>
+                                                <ul>
+                                                    <li>
+                                                        <a href="https://gosafeguard.com/learn-and-grow/marketing-videos/visibility-and-awareness.asp" target="_blank">Visibility &amp; Awareness</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="https://gosafeguard.com/learn-and-grow/marketing-videos/lead-generation.asp" target="_blank">Lead Generation</a>
+                                                        
+                                                    </li>
+                                                    <li>
+                                                        <a href="https://gosafeguard.com/learn-and-grow/marketing-videos/targeting.asp" target="_blanks">Targeting</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="https://gosafeguard.com/learn-and-grow/marketing-videos/branding.asp" target="_blanks">Branding</a>
+                                                    </li>
+                                                </ul>
+                                        </div>
+                                    </li>
+                                    <li class="pure-g resource">
+                                        <div class="pure-u-9-24">
+                                            <a href="https://gosafeguard.com/products-services/" class="resource-img" target="_blank">
+                                                <div class="msg-overlay">
+                                                    <h4>Marketing Solutions</h4>
+                                                    <p>Browse below for what you need to run and grow your business.</p>
+                                                </div>
+                                                <img src="images/marketing-products.jpg"  width="332" height="166" class="pure-img" alt="marketing and promotional products" />
+                                            </a>
+                                        </div>
+                                        <div class="pure-u-15-24 resource-copy">
+                                                <h4><a href="https://gosafeguard.com/products-services/" target="_blank">Marketing Solutions</a></h4>
+                                                <p>Browse for what you need to run and grow your business.</p>
+                                                <ul>
+                                                    <li>
+                                                        <a href="https://gosafeguard.com/promotional-products-apparel/index.asp" target="_blank">Promotional Products &amp; Apparel</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="https://gosafeguard.com/online-marketing-web-services/index.asp" target="_blank">Online Marketing &amp; Web Services</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="https://gosafeguard.com/print-services/index.asp" target="_blanks">Design &amp; Print Services</a>
+                                                    </li>
+                                                </ul>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="spacer-hack-800"></div>	
+                    <!-- END RESOURCES -->
+                </div>	
+                    
+                <!--content Template END-->
+            </div>
+        </div>
+    </div>
+     
+    <!--  Footer start -->
+    <div class="footer">
+    <div class="mainFooter">
+    <div class="Margin30">
+    <div class="width20 floatLeft marginRight20">
+    
+    
+    
+      <div class="RedOpen18" style="font-size:17px;">Talk to Safeguard</div>
+      <div class="phoneFooter">(855) 778-3124</div>
+       <p><br>
+         There are 600+  Safeguard representatives in the U.S. and Canada &mdash; and one near you. <br>
+    Make the connection now.<br>
+      </p>
+      
+      <p>&nbsp;</p>
+      <div id="DisclaimerBox">&copy; 2015 Safeguard. All Rights Reserved.<br>
+        The protected marks displayed are the intellectual property of the respective trademark and logo owners.        </div>
+    </div>
+    <div class="width20 floatLeft marginRight20">
+    <div class="tiltleFooter">Products &amp; Services</div>
+      <ul>
+        <li><a href="/business-checks/index.asp">Business Checks</a></li>
+        <li><a href="/business-forms/index.asp">Business Forms</a></li>
+        <li><a href="/office-supplies/index.asp">Office Supplies</a></li>
+        <li><a href="/online-marketing-web-services/index.asp">Online Marketing &amp; Web Services</a></li>
+        <li><a href="/printed-products/index.asp">Printed Products</a></li>
+        <li><a href="/print-services/index.asp">Design &amp; Print Services</a></li>
+        <li><a href="/promotional-products-apparel/index.asp">Promotional Products &amp; Apparel</a><br />
+          <br />
+        </li>
+        <li><a href="/ecatalog/index.asp?icid=ecatalog-click-here">Catalogs</a></li>
+        <li><a href="/shop/index.asp">Shop</a></li>
+         <li><a href="/sitemap/index.asp">Site Map</a></li>
+      </ul>
+    </div>
+    <div class="width20 floatLeft marginRight20">
+      <div class="tiltleFooter">Learn &amp; Grow</div>
+      <ul>
+        <li><a href="/checks-forms/safeguardsecure/index.asp">Safeguard Secure Resource Center</a></li>
+        <li><a href="/resources/index.asp">Product Style Options</a></li>
+        <li><a href="/newsletter/archive.asp">Newsletter Archive</a></li>
+        <li><a href="/cc/archive.asp">Consultant's Corner</a><br /><br />
+      </li>
+      </ul>
+      <div class="tiltleFooter"><a href="/myaccount.asp ">My Account</a></div>
+      <ul>
+      
+    <li><a href="/login.asp">Log In</a></li>
+    
+        <li><a href="/orderhistory.asp">Reorder</a><br>
+          <br>
+        </li>
+      </ul>
+      <div class="tiltleFooter"><img src="images/CanadaFlag.jpg" width="22" height="16" style="padding-right:5px;" alt="" /><a href="http://www.gosafeguard.com/index.asp?locid=GSG:ftr_2_GSG_CA">Canadian Customers</a></div>
+    </div>
+    <div class="width20 floatLeft">
+      <div class="tiltleFooter">Corporate Information</div>
+      <ul>
+      <li><a href="/safeguard-advantage/index.asp">The Safeguard Advantage</a></li>
+        <li><a href="/contact-us/index.asp">Contact Us</a></li>
+        <li><a href="http://www.safeguarddevelopment.com/">Franchise with Safeguard</a></li>
+        <li><a href="/press-releases/index.asp">Press Release</a></li>
+        <li><a href="/privacy-policy.asp">Privacy Policy</a></li>
+        <li><a href="/policy/copyright.asp">Copyright Infringement (DMCA)</a></li>
+        <li><a href="/policy/pdf/notification.pdf">Notification of Claimed Infringement</a></li>
+         <li><a href="/terms-of-use.asp">Terms of Use</a></li>
+          <li><a href="/anti-spam.asp">Anti-Spam Policy</a></li>
+      </ul>
+    </div>
+    </div>
+    </div>
+    <div class="clearBoth"></div>
+    </div>
+    <!--  Footer end -->
+
+</body>
+</html>
+
